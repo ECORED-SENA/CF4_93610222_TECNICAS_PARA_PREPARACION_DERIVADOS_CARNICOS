@@ -20,7 +20,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg-auto
                   figure
-                    img(src='@/assets/curso/intro/2.png', alt='')
+                    img(src='@/assets/curso/intro/2.png', alt='', data-aos="zoom-in")
                 .col-lg
                   .p-4
                     p.mb-0(data-aos="fade-up") Asimismo, se describen los procesos de producción de diferentes productos cárnicos, incluyendo embutidos, enlatados y productos especiales. Cada proceso contempla desde la selección de materias primas hasta los tratamientos térmicos y de conservación que garantizan la calidad y seguridad del producto final.
