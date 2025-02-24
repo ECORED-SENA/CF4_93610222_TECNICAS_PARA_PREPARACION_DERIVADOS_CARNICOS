@@ -52,7 +52,7 @@
           
 
 
-    p(data-aos="fade-up") El control de calidad que se le realiza al queso de cabeza es verificar que tenga el color característico, el cual es rosado, sabor a condimento y que la textura sea compacta y fácil de cortar.
+    p(data-aos="fade-up").mb-5 El control de calidad que se le realiza al queso de cabeza es verificar que tenga el color característico, el cual es rosado, sabor a condimento y que la textura sea compacta y fácil de cortar.
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
