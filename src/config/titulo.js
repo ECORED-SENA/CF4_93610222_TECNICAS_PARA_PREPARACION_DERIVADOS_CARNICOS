@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Clasificación y elaboración de productos cárnicos procesados'
