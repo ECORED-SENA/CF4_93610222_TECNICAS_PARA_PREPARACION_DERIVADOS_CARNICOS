@@ -42,7 +42,7 @@
           p.mb-0(data-aos="fade-up") Los productos cárnicos procesados cocidos son elaborados a base de carne, grasa y subproductos de animales de abasto. Contienen ingredientes y aditivos permitidos y se realizan mediante procesos de tratamiento térmico. En este grupo se encuentran el salchichón, mortadela, jamonada, morcilla o rellena, pasta de hígado o paté de hígado, carne de diablo y tocineta.
       .col-lg-4
         figure
-          img(src='@/assets/curso/tema1/3.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema1/3.png', alt='', data-aos="zoom-in").my-4.my-lg-0
 
       .col-lg-4
         .tarjeta.bg-color-3.p-4.mb-4.h-100
@@ -99,7 +99,7 @@
             .col-lg-6
               figure  
                 img(src='@/assets/curso/tema1/5.svg', alt='', data-aos="zoom-in").mt-auto
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema1/6.png', alt='', data-aos="zoom-in")
 
@@ -114,19 +114,19 @@
       .col-lg-6
         .bg-color-4.px-4.py-3.mb-4
           .row.justify-content-center.align-items-center
-            .col-lg-auto
+            .col-auto
               figure
-                img(src='@/assets/curso/tema1/7.svg', alt='', data-aos="zoom-in")
-            .col-lg
+                img(src='@/assets/curso/tema1/7.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+            .col
               p.mb-0(data-aos="fade-up") #[strong Productos crudos embutidos]
 
       .col-lg-6
         .bg-color-4.px-4.py-3.mb-4
           .row.justify-content-center.align-items-center
-            .col-lg-auto
+            .col-auto
               figure
-                img(src='@/assets/curso/tema1/8.svg', alt='', data-aos="zoom-in")
-            .col-lg
+                img(src='@/assets/curso/tema1/8.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+            .col
               p.mb-0(data-aos="fade-up") #[strong Productos procesados crudos madurados]
 
 
@@ -173,28 +173,28 @@
 
         p(data-aos="fade-up").mb-4 La segunda etapa consiste en el desarrollo de fenómenos bioquímicos y microbiológicos conocidos como maduración, la cual implica en el producto dos tipos de cambios:
 
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema1/10.png', alt='', data-aos="zoom-in")
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-6
         .bg-color-4.px-4.py-3.mb-4
           .row.justify-content-center.align-items-center
-            .col-lg-auto
+            .col-auto
               figure
-                img(src='@/assets/curso/tema1/11.svg', alt='', data-aos="zoom-in")
-            .col-lg
+                img(src='@/assets/curso/tema1/11.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+            .col
               p.mb-0(data-aos="fade-up") #[strong Descenso del pH]
 
       .col-lg-6
         .bg-color-4.px-4.py-3.mb-4
           .row.justify-content-center.align-items-center
-            .col-lg-auto
+            .col-auto
               figure
-                img(src='@/assets/curso/tema1/12.svg', alt='', data-aos="zoom-in")
-            .col-lg
+                img(src='@/assets/curso/tema1/12.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+            .col
               p.mb-0(data-aos="fade-up") #[strong Pérdida de humedad]
 
 
@@ -249,28 +249,28 @@
           .col-lg-4
             .bg-color-4.px-4.py-3.mb-4
               .row.justify-content-center.align-items-center
-                .col-lg-auto
+                .col-auto
                   figure
-                    img(src='@/assets/curso/tema1/15.svg', alt='', data-aos="zoom-in")
-                .col-lg
+                    img(src='@/assets/curso/tema1/15.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+                .col
                   p.mb-0(data-aos="fade-up") Chuleta ahumada
 
           .col-lg-4
             .bg-color-4.px-4.py-3.mb-4
               .row.justify-content-center.align-items-center
-                .col-lg-auto
+                .col-auto
                   figure
-                    img(src='@/assets/curso/tema1/16.svg', alt='', data-aos="zoom-in")
-                .col-lg
+                    img(src='@/assets/curso/tema1/16.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+                .col
                   p.mb-0(data-aos="fade-up") Lomo ahumado
 
           .col-lg-4
             .bg-color-4.px-4.py-3.mb-4
               .row.justify-content-center.align-items-center
-                .col-lg-auto
+                .col-auto
                   figure
-                    img(src='@/assets/curso/tema1/17.svg', alt='', data-aos="zoom-in")
-                .col-lg
+                    img(src='@/assets/curso/tema1/17.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+                .col
                   p.mb-0(data-aos="fade-up") Muchacho relleno
 
 
@@ -278,34 +278,34 @@
           .col-lg-4
             .bg-color-4.px-4.py-3.mb-4
               .row.justify-content-center.align-items-center
-                .col-lg-auto
+                .col-auto
                   figure
-                    img(src='@/assets/curso/tema1/18.svg', alt='', data-aos="zoom-in")
-                .col-lg
+                    img(src='@/assets/curso/tema1/18.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+                .col
                   p.mb-0(data-aos="fade-up") Sobrebarriga rellena
 
           .col-lg-4
             .bg-color-4.px-4.py-3.mb-4
               .row.justify-content-center.align-items-center
-                .col-lg-auto
+                .col-auto
                   figure
-                    img(src='@/assets/curso/tema1/19.svg', alt='', data-aos="zoom-in")
-                .col-lg
+                    img(src='@/assets/curso/tema1/19.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+                .col
                   p.mb-0(data-aos="fade-up") Tocineta
 
           .col-lg-4
             .bg-color-4.px-4.py-3.mb-4
               .row.justify-content-center.align-items-center
-                .col-lg-auto
+                .col-auto
                   figure
-                    img(src='@/assets/curso/tema1/20.svg', alt='', data-aos="zoom-in")
-                .col-lg
+                    img(src='@/assets/curso/tema1/20.svg', alt='', data-aos="zoom-in", style="width: 90px;").mx-auto.mx-lg-0
+                .col
                   p.mb-0(data-aos="fade-up") Pavo relleno
 
         p(data-aos="fade-up").mb-0 El control de calidad en estos productos se realiza mediante la evaluación de sus características organolépticas, #[strong químicas] y #[strong microbiológicas].
       .col-lg-3
         figure
-          img(src='@/assets/curso/tema1/21.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema1/21.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
 </template>
 
