@@ -716,6 +716,85 @@
       .col-lg-6
         figure.mb-0
           img(src='@/assets/curso/tema3/12.png', alt='', data-aos="zoom-in")
+
+
+    .titulo-tres.mb-4(data-aos="flip-up").mb-4
+      h4(data-aos="fade-up") Elaboración de pollo relleno
+
+
+    .row.align-items-stretch.mb-5
+      .col-lg-6
+        figure.mb-0
+          img(src='@/assets/curso/tema3/13.png', alt='', data-aos="zoom-in")
+
+      .col-lg-6
+        .bg-color-3.p-4.h-100
+          p(data-aos="fade-up").mt-lg-4 Para pollo mediano o gallina, se puede rellenar con:
+          ul.lista-ul--color
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | Carne picada en cubos o tiras delgadas.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | Carne molida fina y granulado de cerdo y pollo.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | Carnes molidas de cerdo y pollo en disco grueso.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | Emulsión o pasta cárnica y granulado.
+          
+    .row.align-items-stretch.mb-5
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 13.
+          span Ingredientes principales de pollo relleno
+
+
+        .tabla-a.color-acento-contenido.mb-3
+          table
+            thead
+              tr(style="background-color: #EFDB59; color: #000;")
+                th Ingrediente
+                th Cantidad (%)
+            tbody
+              tr
+                td Carne de res
+                td 10%
+              tr
+                td Grasa de cerdo
+                td 10%
+              tr
+                td Hielo
+                td 15%
+              tr
+                td Miga de pan
+                td 5%
+      .col-lg-6
+        .bg-color-3.p-4.h-100
+          p(data-aos="fade-up").mt-lg-4 El proceso de elaboración es: 
+          ul.lista-ul--color
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | #[strong A. ] Seleccionar y pesar ingredientes.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | #[strong B. ] Deshuesar el pollo.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | #[strong C. ] Marinar el pollo.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | #[strong D. ] Preparar la pasta de relleno.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | #[strong F. ] Cocinar a #[strong 70° C] por #[strong 60 minutos].
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | #[strong G. ] Dejar enfriar y porcionar.
+            li.mb-1(data-aos="fade-left")
+              i.fa-regular.fa-circle-right
+              | #[strong H. ] Almacenar en frío.
 </template>
 
 <script>
