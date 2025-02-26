@@ -100,21 +100,107 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: '¿Qué son productos cárnicos?',
+      referencia:
+        'El Mundo del Campo - alfonso Uribe. (2019).Productos cárnicos chorizos caqueta, chicharrón KAPEL.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=6Nvp6M3DtxQ&ab_channel=ElMundodelCampo-alfonsouribet',
+    },
+    {
+      tema: 'Clasificación de los productos cárnicos procesados',
+      referencia:
+        'Jahira Casilla. (2021). Clasificación de productos cárnicos. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=9RKsBh3bFz0&ab_channel=JahiraCasilla',
+    },
+    {
+      tema: 'Tripa o funda utilizada para embutidos',
+      referencia:
+        'TARAJAI. (2021). Diferentes tripas para embutidos. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=nU98UwnzV28&ab_channel=TARAJAI',
+    },
+    {
+      tema: 'Proceso de elaboración de productos cárnicos',
+      referencia: 'FAO. (s.f.). Procesados de carnes',
+      tipo: 'Documento',
+      link:
+        'https://openknowledge.fao.org/server/api/core/bitstreams/389de810-1911-4f0e-965f-d9fe0b8aa52e/content',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Ahumado',
+      significado:
+        'técnica de conservación que otorga sabor y color mediante la exposición al humo.',
+    },
+    {
+      termino: 'Embutido',
+      significado:
+        'producto cárnico moldeado dentro de una tripa natural o artificial.',
+    },
+    {
+      termino: 'Esterilización',
+      significado:
+        'eliminación de microorganismos mediante altas temperaturas en productos enlatados.',
+    },
+    {
+      termino: 'Maduración',
+      significado:
+        'proceso bioquímico que mejora el sabor y textura de productos cárnicos crudos.',
+    },
+    {
+      termino: 'Morcilla',
+      significado:
+        'producto elaborado con sangre de cerdo, arroz y condimentos.',
+    },
+    {
+      termino: 'Productos cárnicos',
+      significado:
+        'alimentos elaborados con carne, grasa y aditivos autorizados.',
+    },
+    {
+      termino: 'Salchichón',
+      significado:
+        'embutido cocido a base de carne de res o cerdo con especias.',
+    },
+    {
+      termino: 'Tratamiento térmico',
+      significado:
+        'proceso de cocción utilizado para garantizar la seguridad y conservación del producto.',
+    },
+    {
+      termino: 'Tripa artificial',
+      significado:
+        'recubrimiento sintético de celulosa, plástico o colágeno para embutidos.',
+    },
+    {
+      termino: 'Tripa natural',
+      significado:
+        'funda de origen animal utilizada en la elaboración de embutidos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Amézquita, A., Arango, C., Restrepo, D. y Restrepo, R. (2001). Industria de carnes. Medellín, Colombia: Universidad Nacional.',
+      link: '',
+    },
+    {
+      referencia:
+        'Girad, J. (1991). <em>Tecnología de la carne y de los productos cárnicos</em>. Madrid, España: Acribia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Decreto 2162 de 1983. (01 de agosto). <em>Por el cual se reglamenta parcialmente el título V de la Ley 09 de 1979, en cuanto a producción, procesamiento, transporte y expendio de los productos cárnicos procesados.</em> Diario Oficial, 36325, 30 de agosto de 1983.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ramírez, R. (2006). <em>Tecnología de cárnicos</em>. Bogotá, Colombia: Universidad Nacional.',
       link: '',
     },
   ],
@@ -123,14 +209,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Olga Constanza Bermudez Jaimes',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -138,9 +224,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ángela Viviana Páez Perilla ',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -148,19 +240,16 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabian Zarate',
           cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortes Garcia',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -168,14 +257,16 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernan Tejada',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Daniel Mutis',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

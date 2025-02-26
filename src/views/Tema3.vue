@@ -57,7 +57,7 @@
 
 
         figure.mb-0
-          img(src='@/assets/curso/tema3/2.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/2.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
 
 
@@ -146,7 +146,7 @@
 
       .col-lg-6
         figure.mb-0
-          img(src='@/assets/curso/tema3/3.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/3.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
@@ -184,7 +184,7 @@
 
 
         figure.mb-0
-          img(src='@/assets/curso/tema3/4.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/4.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
 
 
@@ -261,7 +261,7 @@
 
       .col-lg-6
         figure.mb-0
-          img(src='@/assets/curso/tema3/5.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/5.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
@@ -297,7 +297,7 @@
 
 
         figure.mb-0
-          img(src='@/assets/curso/tema3/6.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/6.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
       .col-lg-6
         .titulo-sexto.color-acento-contenido
@@ -377,7 +377,7 @@
 
       .col-lg-6
         figure.mb-0
-          img(src='@/assets/curso/tema3/7.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/7.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
 
 
@@ -417,7 +417,7 @@
 
 
         figure.mb-0
-          img(src='@/assets/curso/tema3/8.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/8.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
       .col-lg-6
         .titulo-sexto.color-acento-contenido
@@ -510,7 +510,7 @@
                   | #[strong K. ] Empacar y almacenar.
       .col-lg-4
         figure.mb-0
-          img(src='@/assets/curso/tema3/9.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/9.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
@@ -540,7 +540,7 @@
 
 
         figure.mb-0
-          img(src='@/assets/curso/tema3/10.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/10.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
       .col-lg-6
         .titulo-sexto.color-acento-contenido
@@ -621,7 +621,7 @@
 
       .col-lg-6
         figure.mb-0
-          img(src='@/assets/curso/tema3/11.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/11.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
@@ -715,7 +715,7 @@
 
       .col-lg-6
         figure.mb-0
-          img(src='@/assets/curso/tema3/12.png', alt='', data-aos="zoom-in")
+          img(src='@/assets/curso/tema3/12.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
