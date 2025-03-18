@@ -104,8 +104,7 @@ export default {
       referencia:
         'El Mundo del Campo - alfonso Uribe. (2019).Productos cárnicos chorizos caqueta, chicharrón KAPEL.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=6Nvp6M3DtxQ&ab_channel=ElMundodelCampo-alfonsouribet',
+      link: 'https://www.youtube.com/watch?v=6Nyp6M3DtxQ',
     },
     {
       tema: 'Clasificación de los productos cárnicos procesados',
@@ -240,14 +239,38 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Fabian Zarate',
+          nombre: 'Yerson Fabian Zarate Saavedra',
           cargo: 'Diseñador de contenidos',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Edgar Mauricio Cortes Garcia',
+          nombre: 'Leyson Fabian Castaño Perez',
           cargo: 'Desarrollador <i>full stack</i>',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete Lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete Lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -257,14 +280,26 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Daniel Mutis',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

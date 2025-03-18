@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.overflow-hidden
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
@@ -159,7 +159,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
-          span Ingredientes principales del Salchichón cervecero
+          span Ingredientes principales del salchichón cervecero
 
         .tabla-a.color-acento-contenido.mb-2
           table
@@ -191,7 +191,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.
-          span Condimentos y aditivos del Salchichón cervecero
+          span Condimentos y aditivos del salchichón cervecero
 
         .tabla-a.color-acento-contenido.mb-3
           table
@@ -273,7 +273,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
-          span Ingredientes principales de Salchicha Frankfurt
+          span Ingredientes principales de salchicha frankfurt
 
         .tabla-a.color-acento-contenido.mb-2
           table
@@ -302,7 +302,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span Condimentos y aditivos de Salchicha Frankfurt
+          span Condimentos y aditivos de salchicha frankfurt
 
         .tabla-a.color-acento-contenido.mb-3
           table
@@ -336,7 +336,7 @@
                 td Nuez moscada
                 td 0.5 g/kg
               tr
-                td Condimento de salchicha Frankfurt
+                td Condimento de salchicha frankfurt
                 td 7 g/kg
               tr
                 td Humo líquido
@@ -390,7 +390,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 7.
-          span Ingredientes principales de Salchicha perro #[em (hot dog)]
+          span Ingredientes principales de salchicha perro #[em (hot dog)]
 
         .tabla-a.color-acento-contenido.mb-2
           table
@@ -422,7 +422,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8.
-          span Condimentos y aditivos de Salchicha perro #[em (hot dog)]
+          span Condimentos y aditivos de salchicha perro #[em (hot dog)]
 
         .tabla-a.color-acento-contenido.mb-3
           table
@@ -522,7 +522,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 9.
-          span Ingredientes principales del Chorizo antioqueño
+          span Ingredientes principales del chorizo antioqueño
 
         .tabla-a.color-acento-contenido.mb-2
           table
@@ -545,7 +545,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 10.
-          span Condimentos y aditivos del Chorizo antioqueño
+          span Condimentos y aditivos del chorizo antioqueño
 
 
         .tabla-a.color-acento-contenido.mb-3
