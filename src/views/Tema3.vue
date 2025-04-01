@@ -463,7 +463,7 @@
                 td 0.5 g/kg
               tr
                 td Humo líquido
-                td 0.5 g/kg
+                td 0.5 cc/kg
 
     .row.align-items-stretch.mb-5
       .col-lg-8
