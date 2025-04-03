@@ -273,7 +273,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
-          span Ingredientes principales de salchicha frankfurt
+          span Ingredientes principales de salchicha Frankfurt
 
         .tabla-a.color-acento-contenido.mb-2
           table
@@ -302,7 +302,7 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span Condimentos y aditivos de salchicha frankfurt
+          span Condimentos y aditivos de salchicha Frankfurt
 
         .tabla-a.color-acento-contenido.mb-3
           table
