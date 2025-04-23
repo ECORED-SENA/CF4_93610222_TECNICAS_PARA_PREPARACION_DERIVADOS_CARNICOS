@@ -22,6 +22,8 @@ export default {
       introduccion:
         '<b>Objetivo:</b> Evaluar sobre la clasificación, características, procesos de elaboración y control de calidad de los productos cárnicos procesados.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
