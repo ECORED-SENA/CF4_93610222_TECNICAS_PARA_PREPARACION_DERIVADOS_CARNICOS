@@ -41,19 +41,19 @@
             tbody
               tr
                 td Sangre
-                td 25%
+                td 25 %
               tr
                 td Arroz
-                td 50%
+                td 50 %
               tr
                 td Arveja
-                td 10%
+                td 10 %
               tr
                 td Manteca de cerdo fundida
-                td 7.5%
+                td 7.5 %
               tr
                 td Vísceras de cerdo precocidas
-                td 7.5%
+                td 7.5 %
 
 
         figure.mb-0
@@ -170,16 +170,16 @@
             tbody
               tr
                 td Carne de res
-                td 50%
+                td 50 %
               tr
                 td Grasa de cerdo
-                td 13%
+                td 13 %
               tr
                 td Harina
-                td 10%
+                td 10 %
               tr
                 td Hielo
-                td 27%
+                td 27 %
 
 
 
@@ -284,16 +284,16 @@
             tbody
               tr
                 td Carne de res
-                td 25%
+                td 25 %
               tr
                 td Carne de cerdo
-                td 25%
+                td 25 %
               tr
                 td Harina
-                td 7%
+                td 7 %
               tr
                 td Hielo
-                td 30%
+                td 30 %
 
 
         figure.mb-0
@@ -401,19 +401,19 @@
             tbody
               tr
                 td Grasa/cuero
-                td 11%
+                td 11 %
               tr
                 td Carne de res
-                td 41%
+                td 41 %
               tr
                 td Carne de cerdo
-                td 12%
+                td 12 %
               tr
                 td Hielo
-                td 29%
+                td 29 %
               tr
                 td Harina
-                td 7%
+                td 7 %
 
 
         figure.mb-0
@@ -533,10 +533,10 @@
             tbody
               tr
                 td Carne de cerdo
-                td 80%
+                td 80 %
               tr
                 td Papada
-                td 20%
+                td 20 %
 
 
         figure.mb-0
@@ -644,16 +644,16 @@
             tbody
               tr
                 td Carne de res
-                td 70%
+                td 70 %
               tr
                 td Grasa de cerdo
-                td 10%
+                td 10 %
               tr
                 td Hielo
-                td 15%
+                td 15 %
               tr
                 td Miga de pan
-                td 5%
+                td 5 %
 
 
       .col-lg-6
@@ -760,16 +760,16 @@
             tbody
               tr
                 td Carne de res
-                td 10%
+                td 10 %
               tr
                 td Grasa de cerdo
-                td 10%
+                td 10 %
               tr
                 td Hielo
-                td 15%
+                td 15 %
               tr
                 td Miga de pan
-                td 5%
+                td 5 %
       .col-lg-6
         .bg-color-3.p-4.h-100
           p(data-aos="fade-up").mt-lg-4 El proceso de elaboración es: 
