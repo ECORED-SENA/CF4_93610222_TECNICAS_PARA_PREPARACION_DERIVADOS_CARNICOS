@@ -2,19 +2,18 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.px-4.pt-4.px-md-5.pt-md-5.overflow-hidden
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
 
-
     .bg-full-width-2.bg-fondo-1
       .px-5.pb-5
 
         .row.justify-content-center.align-items-start
-          .col-lg-9
-            p(data-aos="fade-right").mb-4 Este componente formativo aborda la clasificación de los productos cárnicos procesados según la normatividad vigente en Colombia, detallando los distintos tipos existentes y sus características. Además, se presentan los empaques utilizados en la elaboración de embutidos, explicando sus funciones y diferencias en términos de material y aplicación en la industria cárnica.
+          .col-lg-9(data-aos="fade-right")
+            p.mb-4 Este componente formativo aborda la clasificación de los productos cárnicos procesados según la normatividad vigente en Colombia, detallando los distintos tipos existentes y sus características. Además, se presentan los empaques utilizados en la elaboración de embutidos, explicando sus funciones y diferencias en términos de material y aplicación en la industria cárnica.
 
             .bg-color-1.mb-4(data-aos="fade-up")
               .row.justify-content-center.align-items-center
@@ -27,9 +26,10 @@
 
             p(data-aos="fade-right") El componente formativo permite comprender la importancia del control de calidad en la elaboración de productos cárnicos, abarcando aspectos sensoriales, fisicoquímicos y microbiológicos. Esto es fundamental para cumplir con los estándares sanitarios y ofrecer al consumidor productos seguros y de alta calidad.
 
-          .col-lg-3
+          .col-lg-3(data-aos="fade-left")
             figure
-              img(src="@/assets/curso/intro/1.png", alt="", data-aos="zoom-in")
+              img(src="@/assets/curso/intro/1.png", alt="").m-auto
+
 </template>
 
 <script>
@@ -38,6 +38,14 @@ export default {
   data: () => ({
     // variables de vue
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 

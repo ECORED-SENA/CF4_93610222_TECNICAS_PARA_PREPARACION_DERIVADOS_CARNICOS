@@ -2,32 +2,28 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.overflow-hidden
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Proceso de elaboración de productos cárnicos
-
-
       
     .bg-color-4.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Las formulaciones cárnicas juegan un papel clave en la calidad final del producto. A continuación, se describen algunos procesos de elaboración de derivados cárnicos.
+            p.mb-0 Las formulaciones cárnicas juegan un papel clave en la calidad final del producto. A continuación, se describen algunos procesos de elaboración de derivados cárnicos.
               
         .col-lg-auto
           figure
             img(src='@/assets/curso/tema3/1.png', alt='', data-aos="zoom-in")
-
-
       
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h4(data-aos="fade-up") Morcilla o rellena
+      h4 Morcilla o rellena
 
-    p(data-aos="fade-up").mb-4 Producto elaborado a base de sangre de cerdo, con adición de arroz, verduras y vísceras de cerdo picadas y cocidas.
+    p(data-aos="fade-right").mb-4 Producto elaborado a base de sangre de cerdo, con adición de arroz, verduras y vísceras de cerdo picadas y cocidas.
 
     .row.justify-content-start.mb-3
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Ingredientes principales de la morcilla
@@ -55,13 +51,10 @@
                 td Vísceras de cerdo precocidas
                 td 7.5 %
 
-
         figure.mb-0
           img(src='@/assets/curso/tema3/2.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
-
-
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
           span Condimentos y aditivos de la morcilla
@@ -107,9 +100,8 @@
                 td Comino
                 td 1.5 g/kg
 
-
     .row.align-items-stretch.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .bg-color-3.p-4.h-100
           p(data-aos="fade-up").mt-lg-4 El proceso de elaboración es: 
           ul.lista-ul--color
@@ -148,15 +140,13 @@
         figure.mb-0
           img(src='@/assets/curso/tema3/3.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
-
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h4(data-aos="fade-up") Salchichón cervecero
+      h4 Salchichón cervecero
       
-    p(data-aos="fade-up").mb-4 Producto elaborado con carne de res y cerdo, mezclado con harinas y aditivos.
-      
+    p(data-aos="fade-right").mb-4 Producto elaborado con carne de res y cerdo, mezclado con harinas y aditivos.
 
     .row.justify-content-start.mb-3
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
           span Ingredientes principales del salchichón cervecero
@@ -181,14 +171,10 @@
                 td Hielo
                 td 27 %
 
-
-
         figure.mb-0
           img(src='@/assets/curso/tema3/4.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
-
-
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.
           span Condimentos y aditivos del salchichón cervecero
@@ -231,7 +217,6 @@
                 td Proteína de soya deshidratada
                 td 10 g/kg
 
-
     .row.align-items-stretch.mb-5
       .col-lg-6
         .bg-color-3.p-4.h-100
@@ -263,14 +248,13 @@
         figure.mb-0
           img(src='@/assets/curso/tema3/5.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
-
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h4(data-aos="fade-up") Salchicha Frankfurt
+      h4 Salchicha Frankfurt
       
     p(data-aos="fade-up").mb-4 Es un producto elaborado con carne de res, cerdo o pollo, tocino y aditivos permitidos. Se embute en tripas de #[strong 45 mm de diámetro], se somete a #[strong tratamiento térmico] y, en algunos casos, a #[strong ahumado] según las exigencias del mercado.
 
     .row.justify-content-start.mb-3
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
           span Ingredientes principales de salchicha Frankfurt
@@ -295,11 +279,10 @@
                 td Hielo
                 td 30 %
 
-
         figure.mb-0
           img(src='@/assets/curso/tema3/6.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
           span Condimentos y aditivos de salchicha Frankfurt
@@ -379,15 +362,13 @@
         figure.mb-0
           img(src='@/assets/curso/tema3/7.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
-
-
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h4(data-aos="fade-up") Salchicha perro #[em (hot dog)]
+      h4 Salchicha perro #[em (hot dog)]
       
-    p(data-aos="fade-up").mb-4 Producto elaborado con carne de res, cerdo y grasa, embutido en tripas celulósicas o de celofán.
+    p(data-aos="fade-right").mb-4 Producto elaborado con carne de res, cerdo y grasa, embutido en tripas celulósicas o de celofán.
 
     .row.justify-content-start.mb-3
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 7.
           span Ingredientes principales de salchicha perro #[em (hot dog)]
@@ -415,11 +396,10 @@
                 td Harina
                 td 7 %
 
-
         figure.mb-0
           img(src='@/assets/curso/tema3/8.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8.
           span Condimentos y aditivos de salchicha perro #[em (hot dog)]
@@ -514,12 +494,12 @@
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h4(data-aos="fade-up") Chorizo antioqueño
+      h4 Chorizo antioqueño
       
-    p(data-aos="fade-up").mb-4 Producto elaborado con carne de res o cerdo, picada, embutida en tripa natural o artificial con aditivos permitidos.
+    p(data-aos="fade-right").mb-4 Producto elaborado con carne de res o cerdo, picada, embutida en tripa natural o artificial con aditivos permitidos.
 
     .row.justify-content-start.mb-3
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 9.
           span Ingredientes principales del chorizo antioqueño
@@ -538,15 +518,13 @@
                 td Papada
                 td 20 %
 
-
         figure.mb-0
           img(src='@/assets/curso/tema3/10.png', alt='', data-aos="zoom-in").mb-4.mb-lg-0
 
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 10.
           span Condimentos y aditivos del chorizo antioqueño
-
 
         .tabla-a.color-acento-contenido.mb-3
           table
@@ -625,12 +603,12 @@
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h4(data-aos="fade-up") Elaboración de hamburguesa de res
+      h4 Elaboración de hamburguesa de res
       
-    p(data-aos="fade-up").mb-4 Proceso en el que se mezcla carne de res molida con grasa de cerdo, hielo y miga de pan, junto con condimentos como sal, ajo, cebolla y pimienta.
+    p(data-aos="fade-right").mb-4 Proceso en el que se mezcla carne de res molida con grasa de cerdo, hielo y miga de pan, junto con condimentos como sal, ajo, cebolla y pimienta.
 
     .row.justify-content-start.mb-3
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 11.
           span Ingredientes principales de hamburguesa de res
@@ -655,12 +633,10 @@
                 td Miga de pan
                 td 5 %
 
-
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 12.
           span Condimentos y aditivos de hamburguesa de res
-
 
         .tabla-a.color-acento-contenido.mb-3
           table
@@ -687,7 +663,6 @@
               tr
                 td Humo líquido
                 td 1 cc/kg
-
 
     .row.align-items-stretch.mb-5
       .col-lg-6
@@ -717,10 +692,8 @@
         figure.mb-0
           img(src='@/assets/curso/tema3/12.png', alt='', data-aos="zoom-in").mt-4.mt-lg-0
 
-
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h4(data-aos="fade-up") Elaboración de pollo relleno
-
+      h4 Elaboración de pollo relleno
 
     .row.align-items-stretch.mb-5
       .col-lg-6
@@ -744,12 +717,11 @@
               i.fa-regular.fa-circle-right
               | Emulsión o pasta cárnica y granulado.
           
-    .row.align-items-stretch.mb-5
-      .col-lg-6
+    .row.align-items-stretch
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 13.
           span Ingredientes principales de pollo relleno
-
 
         .tabla-a.color-acento-contenido.mb-3
           table
@@ -770,7 +742,8 @@
               tr
                 td Miga de pan
                 td 5 %
-      .col-lg-6
+
+      .col-lg-6(data-aos="fade-left")
         .bg-color-3.p-4.h-100
           p(data-aos="fade-up").mt-lg-4 El proceso de elaboración es: 
           ul.lista-ul--color
@@ -795,6 +768,7 @@
             li.mb-1(data-aos="fade-left")
               i.fa-regular.fa-circle-right
               | #[strong H. ] Almacenar en frío.
+
 </template>
 
 <script>
